@@ -46,10 +46,9 @@ cd weather-app
 ```
 
 
-## Setup Backend
+## Install packages
 
 ```bash
-cd backend
 npm install
 ```
 
@@ -63,6 +62,7 @@ npm install
 ## Start Backend Server 
 
 ```bash
+cd backend
 npm start
 ```
 ## Setup Frontend
